@@ -106,10 +106,18 @@ Movie-Recommender-System/
 ## Author
 
 **Abhishek Nagar**
+B.Tech Artificial Intelligence | MITS Gwalior | 5th Semester
 
-B.Tech Artificial Intelligence
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-nagar-a58387226/)
+- 🐙 [GitHub](https://github.com/abhi01-sys)
+- 📧 nagarab00@gmail.com
 
-MITS Gwalior
+---
 
-GitHub:
-https://github.com/abhi01-sys
+## ⭐ Show Your Support
+
+If you found this project helpful, please give it a **⭐ Star** on GitHub!
+
+---
+
+*Made with ❤️ by Abhishek Nagar*
